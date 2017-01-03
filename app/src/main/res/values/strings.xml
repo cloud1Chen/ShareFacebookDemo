@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareFacebookDemo</string>
+    <string name="facebook_app_id">402621710129355</string>
+    <string name="app_site">https://www.baidu.com</string>
+</resources>
